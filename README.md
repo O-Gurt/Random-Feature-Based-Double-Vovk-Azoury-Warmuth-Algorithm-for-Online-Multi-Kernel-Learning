@@ -1,4 +1,4 @@
-# Random-Feature-Based-Double-Vovk-Azoury-Warmuth-Algorithm-for-Online-Multi-Kernel-Learning
+# Random feature-based double Vovk-Azoury-Warmuth algorithm for online multi-kernel learning
 
 The nummerical results from the paper "Random feature-based double Vovk-Azoury-Warmuth algorithm for online multi-kernel learning" by Dmitry B. Rokhlin and Olga V. Gurtovaya.
 
